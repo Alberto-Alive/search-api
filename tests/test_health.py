@@ -1,18 +1,14 @@
 from fastapi.testclient import TestClient
 
-from app.main import app
 
-client = TestClient(app)
-
-
-def test_health() -> None:
+def test_health(client: TestClient) -> None:
     response = client.get("/health")
 
     assert response.status_code == 200
     assert response.json() == {"status": "ok"}
 
 
-def test_index() -> None:
+def test_index(client: TestClient) -> None:
     response = client.get("/")
 
     assert response.status_code == 200
@@ -20,7 +16,7 @@ def test_index() -> None:
     assert "Trendtype" in response.text
 
 
-def test_docs() -> None:
+def test_docs(client: TestClient) -> None:
     response = client.get("/docs")
 
     assert response.status_code == 200

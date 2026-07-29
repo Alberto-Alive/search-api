@@ -1,4 +1,5 @@
 # Trendtype distributor directory
+<img width="1914" height="926" alt="image" src="https://github.com/user-attachments/assets/3ab19f9e-81ba-4f2e-ad94-82eb483dd7c1" />
 
 ## 1. Project overview
 

@@ -3,12 +3,177 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Trendtype</title>
+    <meta
+      name="description"
+      content="Search Trendtype's directory of distributors by name, country, and category."
+    >
+    <title>Trendtype Distributor Directory</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="/static/app.js" defer></script>
   </head>
   <body>
-    <main>
-      <h1>Trendtype</h1>
-      <p>Distributor search will be added in a later stage.</p>
+    <a class="skip-link" href="#results">Skip to results</a>
+
+    <header class="site-header">
+      <div class="shell">
+        <p class="eyebrow">Distributor directory</p>
+        <h1>Trendtype</h1>
+        <p class="intro">
+          Find distribution partners by company name, alias, country, or
+          product category.
+        </p>
+      </div>
+    </header>
+
+    <main class="shell main-content">
+      <section class="search-panel" aria-labelledby="search-heading">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Directory search</p>
+            <h2 id="search-heading">Find a distributor</h2>
+          </div>
+          <p>Use one or more filters. Every active filter is applied together.</p>
+        </div>
+
+        <form id="search-form" class="search-form">
+          <div class="filter-grid">
+            <div class="field field-name">
+              <label for="name-filter">Name or alias</label>
+              <input
+                id="name-filter"
+                name="name"
+                type="search"
+                autocomplete="off"
+                placeholder="e.g. Premier or PCT"
+              >
+            </div>
+
+            <div class="field">
+              <label for="country-filter">Country</label>
+              <input
+                id="country-filter"
+                name="country"
+                type="text"
+                autocomplete="off"
+                placeholder="e.g. Ghana"
+              >
+            </div>
+
+            <div class="field">
+              <label for="category-filter">Category</label>
+              <input
+                id="category-filter"
+                name="category"
+                type="text"
+                autocomplete="off"
+                placeholder="e.g. beverages"
+              >
+            </div>
+
+            <div class="field field-page-size">
+              <label for="page-size">Results per page</label>
+              <select id="page-size" name="page_size">
+                <option value="10">10</option>
+                <option value="20" selected>20</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-actions">
+            <button id="search-button" class="button button-primary" type="submit">
+              Search directory
+            </button>
+            <button id="clear-button" class="button button-secondary" type="button">
+              Clear
+            </button>
+          </div>
+        </form>
+      </section>
+
+      <section
+        id="results"
+        class="results-section"
+        aria-labelledby="results-heading"
+      >
+        <div class="results-toolbar">
+          <div>
+            <p class="section-kicker">Search results</p>
+            <h2 id="results-heading">Distributors</h2>
+          </div>
+          <p id="result-count" class="result-count" aria-live="polite">
+            Loading distributors…
+          </p>
+        </div>
+
+        <div
+          id="loading-state"
+          class="state-message loading-state"
+          role="status"
+          aria-live="polite"
+          hidden
+        >
+          <span class="status-dot" aria-hidden="true"></span>
+          Loading distributors…
+        </div>
+
+        <div id="error-state" class="state-message error-state" role="alert" hidden>
+          <h3>We couldn’t load the directory</h3>
+          <p id="error-message">
+            Please try again. Your filters have been preserved.
+          </p>
+        </div>
+
+        <div id="empty-state" class="state-message empty-state" hidden>
+          <h3 id="empty-heading">No distributors found</h3>
+          <p id="empty-message">
+            Try broadening your filters or clearing the search.
+          </p>
+        </div>
+
+        <div
+          id="results-grid"
+          class="results-grid"
+          aria-busy="false"
+        ></div>
+
+        <nav
+          id="pagination-controls"
+          class="pagination"
+          aria-label="Distributor result pages"
+          hidden
+        >
+          <button
+            id="previous-page"
+            class="button button-secondary"
+            type="button"
+          >
+            Previous
+          </button>
+          <p id="page-status" class="page-status" aria-live="polite"></p>
+          <button
+            id="next-page"
+            class="button button-secondary"
+            type="button"
+          >
+            Next
+          </button>
+        </nav>
+      </section>
+
+      <noscript>
+        <div class="state-message error-state">
+          JavaScript is required to search the distributor directory.
+        </div>
+      </noscript>
     </main>
+
+    <footer class="site-footer">
+      <div class="shell">
+        <p>Trendtype distributor intelligence</p>
+      </div>
+    </footer>
   </body>
 </html>

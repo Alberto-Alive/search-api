@@ -5,6 +5,7 @@ from typing import AsyncIterator
 
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 
 from app.api.distributors import router as distributors_router
 from app.api.errors import register_error_handlers
@@ -57,6 +58,11 @@ def create_app(
     application = FastAPI(title="Trendtype", lifespan=lifespan)
     register_error_handlers(application)
     application.include_router(distributors_router)
+    application.mount(
+        "/static",
+        StaticFiles(directory=STATIC_DIR),
+        name="static",
+    )
 
     @application.get("/health")
     def health() -> dict[str, str]:

@@ -4,7 +4,6 @@ import hashlib
 import json
 import re
 import sqlite3
-import unicodedata
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
@@ -12,6 +11,10 @@ from typing import Any
 
 from sqlalchemy import bindparam, text
 from sqlalchemy.engine import Connection, Engine
+
+from app.services.normalization import (
+    normalize_searchable_text as _searchable_text,
+)
 
 REQUIRED_TABLES = {
     "countries",
@@ -512,17 +515,6 @@ def _insert_contact(
             "source_shape": source_shape,
         },
     )
-
-
-def _searchable_text(value: Any, field_name: str) -> tuple[str, str]:
-    if not isinstance(value, str):
-        raise ValueError(f"{field_name} must be text")
-
-    display_value = " ".join(unicodedata.normalize("NFKC", value).split())
-    if not display_value:
-        raise ValueError(f"{field_name} must not be blank")
-
-    return display_value, display_value.casefold()
 
 
 def _normalize_founded_year(value: Any) -> int | None:

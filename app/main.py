@@ -6,6 +6,8 @@ from typing import AsyncIterator
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
 
+from app.api.distributors import router as distributors_router
+from app.api.errors import register_error_handlers
 from app.db.database import create_sqlite_engine
 from app.services.ingestion import initialize_database
 
@@ -53,6 +55,8 @@ def create_app(
             engine.dispose()
 
     application = FastAPI(title="Trendtype", lifespan=lifespan)
+    register_error_handlers(application)
+    application.include_router(distributors_router)
 
     @application.get("/health")
     def health() -> dict[str, str]:

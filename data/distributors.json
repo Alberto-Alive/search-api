@@ -1,0 +1,1220 @@
+[
+  {
+    "id": 1,
+    "name": "Premier Distribution",
+    "aliases": [
+      "Premier Distribution",
+      "Premier Distribution (PD)"
+    ],
+    "country": "Rwanda",
+    "categories": [
+      "cosmetics",
+      "personal care",
+      "textiles"
+    ],
+    "description": "Regional distributor specializing in cosmetics with a strong retail network across Rwanda, supplying major supermarket chains and independent stores.",
+    "contact": {
+      "email": "info33@example.com",
+      "phone": "+2551125671"
+    },
+    "founded_year": 1986,
+    "locations": [
+      {
+        "city": "Kigali",
+        "country": "Rwanda"
+      }
+    ],
+    "last_updated": "25/05/2025"
+  },
+  {
+    "id": 2,
+    "name": "Volta Commercial Traders",
+    "aliases": [
+      "Volta Commercial Traders"
+    ],
+    "country": "Ghana",
+    "categories": [
+      "confectionery"
+    ],
+    "description": "Mid-sized distributor focused on confectionery, known for reliable last-mile delivery to traditional trade outlets throughout Ghana.",
+    "contact": null,
+    "founded_year": null,
+    "locations": [
+      {
+        "city": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "2025-03-19"
+  },
+  {
+    "id": 3,
+    "name": "United Wholesale",
+    "aliases": [
+      "United Wholesale",
+      "United Wholesale (UW)"
+    ],
+    "country": "Saudi Arabia",
+    "categories": [
+      "household goods"
+    ],
+    "description": null,
+    "contact_email": "sales42@example.com",
+    "contact_phone": "+2207939087",
+    "founded_year": null,
+    "locations": [
+      {
+        "city": "Riyadh",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "last_updated": "23/01/2025"
+  },
+  {
+    "id": 4,
+    "name": "United Merchants",
+    "aliases": [
+      "United Merchants",
+      "United Merchants (UM)"
+    ],
+    "country": "Jordan",
+    "description": "N/A",
+    "contact_email": "sales38@example.com",
+    "contact_phone": "+2626350075",
+    "founded_year": 2008,
+    "locations": [
+      {
+        "city": "Amman",
+        "country": "Jordan"
+      }
+    ],
+    "last_updated": "3/24/2026"
+  },
+  {
+    "id": 5,
+    "name": "Cairo Nile Traders",
+    "aliases": [
+      "Cairo Nile Traders"
+    ],
+    "country": "Egypt",
+    "categories": [
+      "baby care",
+      "personal care"
+    ],
+    "description": "FMCG distributor.",
+    "contact": null,
+    "founded_year": 1985,
+    "locations": [
+      {
+        "city": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "last_updated": "2025-08-15"
+  },
+  {
+    "id": 6,
+    "name": "First Distribution",
+    "aliases": [
+      "First Distribution",
+      "First Distribution (FD)"
+    ],
+    "country": "Nigeria",
+    "categories": [
+      "confectionery",
+      "snacks"
+    ],
+    "description": "Mid-sized distributor focused on confectionery, known for reliable last-mile delivery to traditional trade outlets throughout Nigeria.",
+    "contact": {
+      "email": "info35@example.com",
+      "phone": "+2187946147"
+    },
+    "founded_year": "2019",
+    "locations": [
+      {
+        "city": "Abuja",
+        "country": "Nigeria"
+      }
+    ],
+    "last_updated": "2023-11-02"
+  },
+  {
+    "id": 7,
+    "name": "Atlas Merchants",
+    "aliases": [
+      "Atlas Merchants",
+      "Atlas Merchants (AM)"
+    ],
+    "country": "Jordan",
+    "categories": [
+      "cleaning supplies"
+    ],
+    "description": "Regional distributor specializing in cleaning supplies with a strong retail network across Jordan, supplying major supermarket chains and independent stores.",
+    "founded_year": 2000,
+    "locations": [
+      {
+        "city": "Amman",
+        "country": "Jordan"
+      }
+    ],
+    "last_updated": "2024-12-19"
+  },
+  {
+    "id": 8,
+    "name": "Golden Sands Trading",
+    "country": "Jordan",
+    "categories": [
+      "household goods",
+      "pharmaceuticals",
+      "beauty products"
+    ],
+    "description": "Regional distributor specializing in household goods with a strong retail network across Jordan, supplying major supermarket chains and independent stores.",
+    "contact": null,
+    "founded_year": 2011,
+    "locations": [
+      {
+        "city": "Amman",
+        "country": "Jordan"
+      }
+    ],
+    "last_updated": "1/13/2023"
+  },
+  {
+    "id": 9,
+    "name": "Horizon Distribution",
+    "country": "Tanzania",
+    "categories": [
+      "frozen food",
+      "baby care",
+      "household goods"
+    ],
+    "description": "Established FMCG distributor covering frozen food, operating a fleet-based delivery network serving urban and peri-urban retail outlets in Tanzania.",
+    "founded_year": "2005",
+    "locations": [
+      {
+        "city": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "last_updated": "3/24/2026"
+  },
+  {
+    "id": 10,
+    "name": "Serengeti Trade Partners",
+    "aliases": [
+      "Serengeti Trade Partners",
+      "Serengeti Trade Partners (STP)"
+    ],
+    "country": "Tanzania",
+    "categories": [
+      "baby care",
+      "cosmetics",
+      "confectionery"
+    ],
+    "description": "FMCG distributor.",
+    "contact_email": "sales22@example.com",
+    "contact_phone": "+2996139578",
+    "founded_year": 1994,
+    "locations": [
+      {
+        "city": "Dar es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "last_updated": "2025-01-12"
+  },
+  {
+    "id": 11,
+    "name": "Horizon Distribution",
+    "country": "Tanzania",
+    "categories": [
+      "frozen food",
+      "baby care",
+      "household goods"
+    ],
+    "description": "Established FMCG distributor covering frozen food, operating a fleet-based delivery network serving urban and peri-urban retail outlets in Tanzania.",
+    "founded_year": "2005",
+    "locations": [
+      {
+        "city": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "last_updated": "3/24/2026"
+  },
+  {
+    "id": 12,
+    "name": "Pearl Coast Trading",
+    "aliases": [
+      "Pearl Coast Trading",
+      "Pearl Coast Trading (PCT)",
+      "PCT"
+    ],
+    "country": "Cameroon",
+    "categories": [
+      "snacks",
+      "household goods",
+      "personal care"
+    ],
+    "description": "Established FMCG distributor covering snacks, operating a fleet-based delivery network serving urban and peri-urban retail outlets in Cameroon.",
+    "contact": null,
+    "founded_year": "1989",
+    "locations": [
+      {
+        "city": "Yaoundé",
+        "country": "Cameroon"
+      }
+    ],
+    "last_updated": "09/09/2026"
+  },
+  {
+    "id": 13,
+    "name": "Sahara Link Traders",
+    "country": "Ghana",
+    "categories": [
+      "beverages",
+      "snacks",
+      "electronics"
+    ],
+    "description": "TBD",
+    "contact_email": "sales3@example.com",
+    "contact_phone": "+2234031070",
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "07/10/2025"
+  },
+  {
+    "id": 14,
+    "name": "United Import Export",
+    "country": "Kenya",
+    "categories": [
+      "cleaning supplies",
+      "canned goods"
+    ],
+    "description": "Established FMCG distributor covering cleaning supplies, operating a fleet-based delivery network serving urban and peri-urban retail outlets in Kenya.",
+    "contact": {
+      "email": "info37@example.com",
+      "phone": "+2841541582"
+    },
+    "founded_year": null,
+    "locations": [
+      {
+        "city": "Nairobi",
+        "country": "Kenya"
+      }
+    ],
+    "last_updated": "11/20/2025"
+  },
+  {
+    "id": 15,
+    "name": "Table Mountain Supply",
+    "aliases": [
+      "Table Mountain Supply",
+      "Table Mountain Supply (TMS)"
+    ],
+    "country": "South Africa",
+    "categories": [
+      "frozen food",
+      "beverages"
+    ],
+    "description": "Regional distributor specializing in frozen food with a strong retail network across South Africa, supplying major supermarket chains and independent stores.",
+    "contact_email": "sales26@example.com",
+    "contact_phone": "+2719106699",
+    "founded_year": 1987,
+    "locations": [
+      {
+        "city": "Cape Town",
+        "country": "South Africa"
+      },
+      {
+        "city": "Johannesburg",
+        "country": "South Africa"
+      }
+    ],
+    "last_updated": "14/06/2024"
+  },
+  {
+    "id": 16,
+    "name": "Premier Supply Co",
+    "aliases": [
+      "Premier Supply Co",
+      "PSC"
+    ],
+    "country": "Nigeria",
+    "description": "N/A",
+    "contact": {
+      "email": "info43@example.com",
+      "phone": "+2405307028"
+    },
+    "founded_year": "2013",
+    "locations": [
+      {
+        "city": "Lagos",
+        "country": "Nigeria"
+      }
+    ],
+    "last_updated": "8/4/2025"
+  },
+  {
+    "id": 17,
+    "name": "Victoria",
+    "country": "Uganda",
+    "description": "FMCG distributor.",
+    "contact_email": "sales15@example.com",
+    "contact_phone": "+2616854671",
+    "founded_year": 2010,
+    "locations": [
+      {
+        "city": "Kampala",
+        "country": "Uganda"
+      }
+    ],
+    "last_updated": "2/2/2024",
+    "contact": {
+      "email": "info50@example.com",
+      "phone": "+2259976144"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ashanti Distribution",
+    "aliases": [
+      "Ashanti Distribution"
+    ],
+    "country": "Ghana",
+    "categories": [
+      "dairy"
+    ],
+    "description": "Mid-sized distributor focused on dairy, known for reliable last-mile delivery to traditional trade outlets throughout Ghana.",
+    "contact": {
+      "email": "info24@example.com",
+      "phone": "+2976803188"
+    },
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Kumasi",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "4/1/2024"
+  },
+  {
+    "id": 19,
+    "name": "Mediterranean Supply Chain (MSC)",
+    "aliases": [
+      "Mediterranean Supply Chain"
+    ],
+    "country": "Ghana",
+    "categories": [],
+    "description": "Trading company.",
+    "contact": null,
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Kumasi",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "04/08/2025"
+  },
+  {
+    "id": 20,
+    "name": "Mediterranean Supply Chain",
+    "aliases": [
+      "Mediterranean Supply Chain"
+    ],
+    "country": "Ghana",
+    "categories": [],
+    "description": "Trading company.",
+    "contact": {
+      "email": "info19@example.com",
+      "phone": "+2474745382"
+    },
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Kumasi",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "2026-09-23"
+  },
+  {
+    "id": 21,
+    "name": "Equator Wholesale",
+    "aliases": [
+      "Equator Wholesale"
+    ],
+    "country": "Nigeria",
+    "categories": [],
+    "description": "Distributor.",
+    "founded_year": 1989,
+    "locations": [
+      {
+        "city": "Lagos",
+        "country": "Nigeria"
+      },
+      {
+        "city": "Abuja",
+        "country": "Nigeria"
+      }
+    ],
+    "last_updated": "2024-10-20"
+  },
+  {
+    "id": 22,
+    "name": "Coral Bay Distributors",
+    "aliases": [
+      "Coral Bay Distributors",
+      "CBD"
+    ],
+    "country": "Morocco",
+    "categories": [
+      "frozen food"
+    ],
+    "description": "N/A",
+    "contact": {
+      "email": "info10@example.com",
+      "phone": "+2916690353"
+    },
+    "founded_year": "1993",
+    "locations": [
+      {
+        "city": "Rabat",
+        "country": "Morocco"
+      }
+    ],
+    "last_updated": "5/17/2024"
+  },
+  {
+    "id": 23,
+    "name": "Cedar Grove Imports",
+    "aliases": [
+      "Cedar Grove Imports"
+    ],
+    "country": "Uganda",
+    "categories": [
+      "canned goods"
+    ],
+    "description": "Established FMCG distributor covering canned goods, operating a fleet-based delivery network serving urban and peri-urban retail outlets in Uganda.",
+    "founded_year": 1995,
+    "locations": [
+      {
+        "city": "Entebbe",
+        "country": "Uganda"
+      }
+    ],
+    "last_updated": "2025-07-26"
+  },
+  {
+    "id": 24,
+    "name": "Metro Supply Co",
+    "country": "Egypt",
+    "categories": [
+      "dairy",
+      "cleaning supplies"
+    ],
+    "description": "Regional distributor specializing in dairy with a strong retail network across Egypt, supplying major supermarket chains and independent stores.",
+    "contact_email": "sales40@example.com",
+    "contact_phone": "+2305145276",
+    "founded_year": 2011,
+    "locations": [
+      {
+        "city": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "last_updated": "8/26/2026"
+  },
+  {
+    "id": 25,
+    "name": "Baobab Import Export",
+    "country": "Ghana",
+    "categories": [
+      "baby care"
+    ],
+    "description": "Mid-sized distributor focused on baby care, known for reliable last-mile delivery to traditional trade outlets throughout Ghana.",
+    "contact": {
+      "email": "info5@example.com",
+      "phone": "+2787194506"
+    },
+    "founded_year": "1999",
+    "locations": [
+      {
+        "city": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "city": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "2023-06-13"
+  },
+  {
+    "id": 26,
+    "name": "Ubuntu Consumer Products",
+    "country": "Uganda",
+    "categories": [
+      "household goods",
+      "canned goods"
+    ],
+    "description": "Mid-sized distributor focused on household goods, known for reliable last-mile delivery to traditional trade outlets throughout Uganda.",
+    "contact": {
+      "email": "info21@example.com",
+      "phone": "+2154544899"
+    },
+    "founded_year": 2012,
+    "locations": [
+      {
+        "city": "Kampala",
+        "country": "Uganda"
+      }
+    ],
+    "last_updated": "2024-11-09"
+  },
+  {
+    "id": 27,
+    "name": "National Import Export",
+    "aliases": [
+      "National Import Export",
+      "National Import Export (NIE)",
+      "NIE"
+    ],
+    "country": "Saudi Arabia",
+    "categories": [
+      "beauty products",
+      "confectionery",
+      "cosmetics"
+    ],
+    "description": "Trading company.",
+    "founded_year": 2014,
+    "locations": [
+      {
+        "city": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "city": "Riyadh",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "last_updated": "2025-03-16"
+  },
+  {
+    "id": 28,
+    "name": "United Commercial",
+    "aliases": [
+      "United Commercial",
+      "UC"
+    ],
+    "country": "Algeria",
+    "description": "Distributor.",
+    "founded_year": 2011,
+    "locations": [
+      {
+        "city": "Algiers",
+        "country": "Algeria"
+      }
+    ],
+    "last_updated": "8/15/2026"
+  },
+  {
+    "id": 29,
+    "name": "Na tiona l Mercha nts",
+    "aliases": [
+      "National Merchants",
+      "NM"
+    ],
+    "country": "Jordan",
+    "categories": [
+      "dairy",
+      "cleaning supplies",
+      "electronics"
+    ],
+    "description": "TBD",
+    "contact": null,
+    "founded_year": 2000,
+    "locations": [
+      {
+        "city": "Amman",
+        "country": "Jordan"
+      }
+    ],
+    "last_updated": "9/18/2025"
+  },
+  {
+    "id": 30,
+    "name": "Accra Coastal Traders",
+    "aliases": [
+      "Accra Coastal Traders"
+    ],
+    "country": "Ghana",
+    "description": "TBD",
+    "contact_email": "sales30@example.com",
+    "contact_phone": "+2871318048",
+    "founded_year": "2016",
+    "locations": [
+      {
+        "city": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "2023-02-25"
+  },
+  {
+    "id": 31,
+    "name": "Horizon Merchants",
+    "aliases": [
+      "Horizon Merchants",
+      "Horizon Merchants (HM)",
+      "HM"
+    ],
+    "country": "Cameroon",
+    "categories": [
+      "beauty products"
+    ],
+    "description": "Mid-sized distributor focused on beauty products, known for reliable last-mile delivery to traditional trade outlets throughout Cameroon.",
+    "contact": null,
+    "founded_year": null,
+    "locations": [
+      {
+        "city": "Douala",
+        "country": "Cameroon"
+      }
+    ],
+    "last_updated": "2/21/2023"
+  },
+  {
+    "id": 32,
+    "name": "Victoria Lake Traders",
+    "country": "Uganda",
+    "description": "FMCG distributor.",
+    "contact_email": "sales15@example.com",
+    "contact_phone": "+2616854671",
+    "founded_year": 2010,
+    "locations": [
+      {
+        "city": "Kampala",
+        "country": "Uganda"
+      }
+    ],
+    "last_updated": "26/05/2026"
+  },
+  {
+    "id": 33,
+    "name": "Delta Consumer Goods",
+    "aliases": [
+      "Delta Consumer Goods"
+    ],
+    "country": "Egypt",
+    "categories": [],
+    "description": "",
+    "founded_year": "1994",
+    "locations": [
+      {
+        "city": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "last_updated": "2025-12-19"
+  },
+  {
+    "id": 34,
+    "name": "Lagos Bay Traders",
+    "country": "Nigeria",
+    "description": "TBD",
+    "founded_year": null,
+    "locations": [
+      {
+        "city": "Kano",
+        "country": "Nigeria"
+      }
+    ],
+    "last_updated": "2026-06-13"
+  },
+  {
+    "id": 35,
+    "name": "Akagera Trading",
+    "country": "Ethiopia",
+    "categories": [],
+    "description": "Distributor.",
+    "contact": null,
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Dire Dawa",
+        "country": "Ethiopia"
+      }
+    ],
+    "last_updated": "2023-04-08"
+  },
+  {
+    "id": 36,
+    "name": "Accra  Coa sta l Tra ders",
+    "aliases": [
+      "Accra Coastal Traders"
+    ],
+    "country": "Ghana",
+    "description": "TBD",
+    "contact_email": "sales53@example.com",
+    "contact_phone": "+2742136977",
+    "founded_year": "2016",
+    "locations": [
+      {
+        "city": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "2026-12-11"
+  },
+  {
+    "id": 37,
+    "name": "Red Sea Distributors",
+    "country": "Egypt",
+    "categories": [
+      "cleaning supplies",
+      "pharmaceuticals"
+    ],
+    "description": "Full-service distribution company for cleaning supplies products, with cold-chain logistics capability and partnerships with international brands entering Egypt.",
+    "founded_year": 1993,
+    "locations": [
+      {
+        "city": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "last_updated": "5/10/2024"
+  },
+  {
+    "id": 38,
+    "name": "Kilimanjaro Supply Co",
+    "country": "Tanzania",
+    "categories": [
+      "household goods",
+      "baby care",
+      "pharmaceuticals"
+    ],
+    "description": "Full-service distribution company for household goods products, with cold-chain logistics capability and partnerships with international brands entering Tanzania.",
+    "contact_email": "sales11@example.com",
+    "contact_phone": "+2821218382",
+    "founded_year": "2013",
+    "locations": [
+      {
+        "city": "Arusha",
+        "country": "Tanzania"
+      },
+      {
+        "city": "Dar es Salaam",
+        "country": "Tanzania"
+      }
+    ],
+    "last_updated": "2023-06-01"
+  },
+  {
+    "id": 39,
+    "name": "Sunrise Commercial Group",
+    "country": "Tunisia",
+    "categories": [
+      "confectionery",
+      "cosmetics"
+    ],
+    "description": null,
+    "contact": null,
+    "founded_year": "1997",
+    "locations": [
+      {
+        "city": "Tunis",
+        "country": "Tunisia"
+      }
+    ],
+    "last_updated": "12/11/2023"
+  },
+  {
+    "id": 40,
+    "name": "National Import Export",
+    "aliases": [
+      "National Import Export",
+      "National Import Export (NIE)",
+      "NIE"
+    ],
+    "country": "Saudi Arabia",
+    "categories": [
+      "beauty products",
+      "confectionery",
+      "cosmetics"
+    ],
+    "description": "Trading company.",
+    "founded_year": 2014,
+    "locations": [
+      {
+        "city": "Jeddah",
+        "country": "Saudi Arabia"
+      },
+      {
+        "city": "Riyadh",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "last_updated": "2025-03-16"
+  },
+  {
+    "id": 41,
+    "name": "Atlas Traders Group",
+    "country": "Morocco",
+    "categories": [
+      "canned goods",
+      "electronics",
+      "beauty products"
+    ],
+    "description": "Mid-sized distributor focused on canned goods, known for reliable last-mile delivery to traditional trade outlets throughout Morocco.",
+    "contact": {
+      "email": "info55@example.com",
+      "phone": "+2819550381"
+    },
+    "founded_year": 1995,
+    "locations": [
+      {
+        "city": "Rabat",
+        "country": "Morocco"
+      }
+    ],
+    "last_updated": "11/13/2025"
+  },
+  {
+    "id": 42,
+    "name": "Nile Star Distribution",
+    "aliases": [
+      "Nile Star Distribution"
+    ],
+    "country": "Egypt",
+    "categories": [],
+    "description": "Trading company.",
+    "founded_year": 1995,
+    "locations": [
+      {
+        "city": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "city": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "last_updated": "2024-06-04"
+  },
+  {
+    "id": 43,
+    "name": "Savannah Wholesale",
+    "country": "Saudi Arabia",
+    "categories": [],
+    "description": "N/A",
+    "contact": {
+      "email": "info8@example.com",
+      "phone": "+2788227492"
+    },
+    "founded_year": 2003,
+    "locations": [
+      {
+        "city": "Riyadh",
+        "country": "Saudi Arabia"
+      }
+    ],
+    "last_updated": "25/09/2025"
+  },
+  {
+    "id": 44,
+    "name": "Coral Bay Retailers",
+    "aliases": [
+      "Coral Bay Retailers",
+      "Coral Bay Retailers (CBR)"
+    ],
+    "country": "Kenya",
+    "description": null,
+    "founded_year": 2019,
+    "locations": [
+      {
+        "city": "Mombasa",
+        "country": "Kenya"
+      }
+    ],
+    "last_updated": "2025-10-25"
+  },
+  {
+    "id": 45,
+    "name": "National Merchants",
+    "aliases": [
+      "National Merchants",
+      "NM"
+    ],
+    "country": "Jordan",
+    "categories": [
+      "dairy",
+      "cleaning supplies",
+      "electronics"
+    ],
+    "description": "TBD",
+    "contact": {
+      "email": "info45@example.com",
+      "phone": "+2809129316"
+    },
+    "founded_year": 2000,
+    "locations": [
+      {
+        "city": "Amman",
+        "country": "Jordan"
+      }
+    ],
+    "last_updated": "2026-08-23"
+  },
+  {
+    "id": 46,
+    "name": "Nile Star Logistics",
+    "aliases": [
+      "Nile Star Logistics"
+    ],
+    "country": "Egypt",
+    "categories": [
+      "frozen food",
+      "beverages"
+    ],
+    "description": "Distributor.",
+    "founded_year": "2002",
+    "locations": [
+      {
+        "city": "Cairo",
+        "country": "Egypt"
+      },
+      {
+        "city": "Alexandria",
+        "country": "Egypt"
+      }
+    ],
+    "last_updated": "06/05/2026"
+  },
+  {
+    "id": 47,
+    "name": "Mediterranean Supply Chain",
+    "aliases": [
+      "Mediterranean Supply Chain"
+    ],
+    "country": "Ghana",
+    "categories": [],
+    "description": "Trading company.",
+    "contact": {
+      "email": "info19@example.com",
+      "phone": "+2474745382"
+    },
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Kumasi",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "2026-09-23"
+  },
+  {
+    "id": 48,
+    "name": "Continental FMCG",
+    "country": "Tanzania",
+    "categories": [],
+    "description": null,
+    "contact": {
+      "email": "info9@example.com",
+      "phone": "+2501486939"
+    },
+    "founded_year": null,
+    "locations": [
+      {
+        "city": "Dar es Salaam",
+        "country": "Tanzania"
+      },
+      {
+        "city": "Arusha",
+        "country": "Tanzania"
+      }
+    ],
+    "last_updated": "27/06/2023"
+  },
+  {
+    "id": 49,
+    "name": "Global Distribution",
+    "country": "Uganda",
+    "categories": [],
+    "description": "Distributor.",
+    "contact_email": "sales36@example.com",
+    "contact_phone": "+2334037646",
+    "founded_year": "2001",
+    "locations": [
+      {
+        "city": "Kampala",
+        "country": "Uganda"
+      }
+    ],
+    "last_updated": "10/03/2023"
+  },
+  {
+    "id": 50,
+    "name": "Copperbelt Trading",
+    "country": "Zambia",
+    "categories": [],
+    "description": null,
+    "contact": {
+      "email": "info18@example.com",
+      "phone": "+2379995032"
+    },
+    "founded_year": 2005,
+    "locations": [
+      {
+        "city": "Lusaka",
+        "country": "Zambia"
+      }
+    ],
+    "last_updated": "11/08/2025"
+  },
+  {
+    "id": 51,
+    "name": "Rift Valley Distribution",
+    "aliases": [
+      "Rift Valley Distribution",
+      "Rift Valley Distribution (RVD)"
+    ],
+    "country": "Kenya",
+    "categories": [
+      "pharmaceuticals",
+      "electronics"
+    ],
+    "description": "Established FMCG distributor covering pharmaceuticals, operating a fleet-based delivery network serving urban and peri-urban retail outlets in Kenya.",
+    "contact": {
+      "email": "info14@example.com",
+      "phone": "+2368227631"
+    },
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Mombasa",
+        "country": "Kenya"
+      }
+    ],
+    "last_updated": "1/21/2023"
+  },
+  {
+    "id": 52,
+    "name": "Zenith Commercial",
+    "country": "Ghana",
+    "description": "N/A",
+    "contact": {
+      "email": "info4@example.com",
+      "phone": "+2208449460"
+    },
+    "founded_year": 2014,
+    "locations": [
+      {
+        "city": "Kumasi",
+        "country": "Ghana"
+      },
+      {
+        "city": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "09/11/2024"
+  },
+  {
+    "id": 53,
+    "name": "Sahara Link Traders (SLT)",
+    "country": "Ghana",
+    "categories": [
+      "beverages",
+      "snacks",
+      "electronics"
+    ],
+    "description": "TBD",
+    "contact_email": "sales3@example.com",
+    "contact_phone": "+2234031070",
+    "founded_year": "unknown",
+    "locations": [
+      {
+        "city": "Accra",
+        "country": "Ghana"
+      }
+    ],
+    "last_updated": "7/4/2024",
+    "contact": null
+  },
+  {
+    "id": 54,
+    "name": "Casablanca Wholesale Group",
+    "aliases": [
+      "Casablanca Wholesale Group"
+    ],
+    "country": "Morocco",
+    "categories": [
+      "canned goods",
+      "household goods",
+      "baby care"
+    ],
+    "description": "Regional distributor specializing in canned goods with a strong retail network across Morocco, supplying major supermarket chains and independent stores.",
+    "contact": {
+      "email": "info29@example.com",
+      "phone": "+2812807629"
+    },
+    "founded_year": "2006",
+    "locations": [
+      {
+        "city": "Casablanca",
+        "country": "Morocco"
+      }
+    ],
+    "last_updated": "4/5/2024"
+  },
+  {
+    "id": 55,
+    "name": "Global Traders",
+    "country": "Morocco",
+    "categories": [
+      "confectionery"
+    ],
+    "description": "Full-service distribution company for confectionery products, with cold-chain logistics capability and partnerships with international brands entering Morocco.",
+    "contact_email": "sales41@example.com",
+    "contact_phone": "+2670073085",
+    "founded_year": 2006,
+    "locations": [
+      {
+        "city": "Rabat",
+        "country": "Morocco"
+      }
+    ],
+    "last_updated": "2025-04-04"
+  },
+  {
+    "id": 56,
+    "name": "First Commercial",
+    "country": "Egypt",
+    "categories": [
+      "electronics"
+    ],
+    "description": null,
+    "contact_email": "sales32@example.com",
+    "contact_phone": "+2356888294",
+    "founded_year": 1989,
+    "locations": [
+      {
+        "city": "Alexandria",
+        "country": "Egypt"
+      },
+      {
+        "city": "Cairo",
+        "country": "Egypt"
+      }
+    ],
+    "last_updated": "2025-09-03"
+  }
+]

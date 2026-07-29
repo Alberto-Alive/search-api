@@ -1,0 +1,1 @@
+"""Trendtype application package."""
